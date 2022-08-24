@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Ph.D. in Mechanical Engineering
+subtitle: jason123jms@gmail.com
 
 profile:
   align: right
