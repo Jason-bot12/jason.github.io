@@ -19,3 +19,18 @@ I am an enthusisatic robotics researcher focusing on the development of future r
 
 Philosophically, I believe robot equal intelligence in both physical and artifical domains. As a hands-on roboticist, I seek to exploit engineering benefits from both rigid and soft materials and structures, and to combine those for establishing future robots with reconfigurable states and multi-modal functionalities. Specifically, my research goal can be addressed via 1) reconfigurable hard and soft robot designs and mechanisms; 2) safe human-robot interface and soft functional robotic devices; and 3) Smart robot manufacutring and biomimetic robotic features. 
 
+<\br>
+
+### Experiences
+
+Ph.D. in Mechanical Engineering at UC San Diego (2018-2021)
+Thesis: Towards Reconfigurable and Adaptive Soft Robots via Hybrid Materials, Designs and Mechanisms
+Advisor: Nicholas Gravish
+
+M.S. in Mechanical Engineering at UC San Diego (2016-2018)
+Thesis: Sliding-layer laminates: a new robotic material enabling robust and adaptable undulatory locomotion
+Advisor: Nicholas Gravish
+
+B.S. in Mechanical Engineering at Xi'an Jiaotong Univ. (2012-2016)
+Thesis: Design and fabrication of a 3D printed rehabilitative and wearable hand exoskeleton 
+Advisor: Jing Wang
