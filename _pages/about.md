@@ -24,13 +24,13 @@ Philosophically, I believe robot equal intelligence in both physical and artific
 ### Experiences
 
 Ph.D. in Mechanical Engineering at UC San Diego (2018-2021)
--Thesis: Towards Reconfigurable and Adaptive Soft Robots via Hybrid Materials, Designs and Mechanisms
--Advisor: Nicholas Gravish
+- Thesis: Towards Reconfigurable and Adaptive Soft Robots via Hybrid Materials, Designs and Mechanisms
+- Advisor: Nicholas Gravish
 
 M.S. in Mechanical Engineering at UC San Diego (2016-2018)
--Thesis: Sliding-layer laminates: a new robotic material enabling robust and adaptable undulatory locomotion
--Advisor: Nicholas Gravish
+- Thesis: Sliding-layer laminates: a new robotic material enabling robust and adaptable undulatory locomotion
+- Advisor: Nicholas Gravish
 
 B.S. in Mechanical Engineering at Xi'an Jiaotong Univ. (2012-2016)
--Thesis: Design and fabrication of a 3D printed rehabilitative and wearable hand exoskeleton 
--Advisor: Jing Wang
+- Thesis: Design and fabrication of a 3D printed rehabilitative and wearable hand exoskeleton 
+- Advisor: Jing Wang
