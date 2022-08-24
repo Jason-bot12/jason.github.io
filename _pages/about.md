@@ -27,6 +27,7 @@ I believe robot equal intelligence in both physical and artifical domains. As a 
 Ph.D. in Mechanical Engineering at UC San Diego (2018-2021)
 - Thesis: Towards Reconfigurable and Adaptive Soft Robots via Hybrid Materials, Designs and Mechanisms
 - Advisor: [Nicholas Gravish](http://web.eng.ucsd.edu/~ngravish/)
+- Group: [Gravish Lab](http://gravishlab.ucsd.edu/)
 
 M.S. in Mechanical Engineering at UC San Diego (2016-2018)
 - Thesis: Sliding-layer laminates: a new robotic material enabling robust and adaptable undulatory locomotion
