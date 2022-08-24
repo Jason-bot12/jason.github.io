@@ -3,6 +3,7 @@ layout: about
 title: About
 permalink: /
 subtitle: jason123jms@gmail.com
+          [google scholar](https://scholar.google.com/citations?user=HN7FTlYAAAAJ&hl=en)
 
 profile:
   align: right
