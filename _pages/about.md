@@ -3,13 +3,14 @@ layout: about
 title: About
 permalink: /
 subtitle: jason123jms@gmail.com
+subtitle: [google scholar](https://scholar.google.com/citations?user=HN7FTlYAAAAJ&hl=en)
           
 
 profile:
   align: right
   image: myself.jpeg
   image_circular: false # crops the image to make it circular
-  address: [google scholar](https://scholar.google.com/citations?user=HN7FTlYAAAAJ&hl=en)
+  address: 
 
 news: false  # includes a list of news items
 selected_papers: false  # includes a list of papers marked as "selected={true}"
