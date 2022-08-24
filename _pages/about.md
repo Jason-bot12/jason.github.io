@@ -19,7 +19,7 @@ I am an enthusisatic robotics researcher focusing on the development of future r
 
 Philosophically, I believe robot equal intelligence in both physical and artifical domains. As a hands-on roboticist, I seek to exploit engineering benefits from both rigid and soft materials and structures, and to combine those for establishing future robots with reconfigurable states and multi-modal functionalities. Specifically, my research goal can be addressed via 1) reconfigurable hard and soft robot designs and mechanisms; 2) safe human-robot interface and soft functional robotic devices; and 3) Smart robot manufacutring and biomimetic robotic features. 
 
-<\br>
+<br/>
 
 ### Experiences
 
