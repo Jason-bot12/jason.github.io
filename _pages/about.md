@@ -1,25 +1,21 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Ph.D. in Mechanical Engineering
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: myself.jpeg
   image_circular: false # crops the image to make it circular
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  address: 
 
-news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+news: false  # includes a list of news items
+selected_papers: false  # includes a list of papers marked as "selected={true}"
+social: false  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am an enthusisatic robotics researcher interested in the development of future reconfigurable and multi-functional robots via smart materials, robot compositions and manufacturing. As robots are gradually replacing human labors in _boring_, _repetitive_ and _dangerous_ jobs, they are also required to yield **safe**, **collaborative** and **adaptive** behaviors in all human involved circumstances. This brings up challenges for robot safety, adaptiveness and multifunctionality that used to be addressed from advanced perception and control algorithms, but yet require equal complexities in physical designs and robot mechanisms. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My approach relies on exploiting engineering benefits from both rigid and soft materials and structures, and to combine those for establishing future robots with reconfigurable states and multi-modal functionalities. Specifically, such an ambition can be addresse via 1) reconfigurable hard and soft robot designs and mechanisms, 2) safe human-robot interface and soft functional robotic devices, and 3) Smart robot manufacutring and biomimetic robotic features. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
