@@ -13,9 +13,6 @@ Graduate level course (ME, EE, BioE)
 - Lab-based experimental sessions to build customized quadrupedal robots. [link](https://twitter.com/ucsdjacobs/status/1007075113735413760)
 - Involving robot manufacturing (e.g., 3D printing, and laser cutting), motor control, inverse kinematics, and dyanmics control.
 
-<img src="https://github.com/mingsongj/mingsongj.github.io/blob/master/assets/img/horse.gif" width="200" height="200" />
-
-<br/>
 
 ### MAE 156A, [Fundamental Principles of Mechanical Designs](https://mae156a.eng.ucsd.edu/)
 Undergraduate level course (ME, EE, BioE)
