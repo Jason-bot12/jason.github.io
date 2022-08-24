@@ -32,6 +32,7 @@ Ph.D. in Mechanical Engineering at UC San Diego (2018-2021)
 M.S. in Mechanical Engineering at UC San Diego (2016-2018)
 - Thesis: Sliding-layer laminates: a new robotic material enabling robust and adaptable undulatory locomotion
 - Advisor: Nicholas Gravish
+- Group: Gravish Lab
 
 B.S. in Mechanical Engineering at Xi'an Jiaotong Univ. (2012-2016)
 - Thesis: Design and fabrication of a 3D printed rehabilitative and wearable hand exoskeleton 
