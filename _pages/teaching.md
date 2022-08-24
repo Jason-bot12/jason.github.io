@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: 
+permalink: /teaching/
 title: Teaching
 description: These are the courses I've TA'd
 nav: true
