@@ -11,7 +11,7 @@ This project combines commercially available 3D printing with robot lamination p
 
 <p align="center">
     
-<img src="/assets/img/flexo_main.png" width=60%/>
+<img src="/assets/img/flexo_main.png" width="200" height="200" />
     
  </p>
 
