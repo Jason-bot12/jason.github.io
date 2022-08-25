@@ -12,6 +12,6 @@ This project combines commercially available 3D printing with robot lamination p
 <p align="center">
     
 <img src="/assets/img/flexo_main.png" width="72%" height="72%" />
-    
+<figcaption>Flexoskeleton printing process. (a) A bio-inspired fabrication process based on insect exoskeletons. (b) Fabrication steps of monolithic functional robots within a single print. (c) Bottom-up fabrication of hybrid robot features from joints to limbs to whole functional robots. </figcaption>
  </p>
 
