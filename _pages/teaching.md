@@ -11,7 +11,7 @@ nav_order: 3
 Graduate level course (ME, EE, BioE)
 - Fundamentals of robot locomotion, control and bio-inspired mechanisms (e.g., CPG control in multi-linkage robots, underactutated leg designs).
 - Lab-based experimental sessions to build customized quadrupedal robots. [link](https://twitter.com/ucsdjacobs/status/1007075113735413760)
-- Involving robot manufacturing (e.g., 3D printing, and laser cutting), motor control, inverse kinematics, and dyanmics control.
+- Involving robot manufacturing (e.g., 3D printing, and laser cutting), motor control, inverse kinematics and dyanmics.
 
 
 ### MAE 156A, [Fundamental Principles of Mechanical Designs](https://mae156a.eng.ucsd.edu/)
