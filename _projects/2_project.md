@@ -20,6 +20,11 @@ This project combines commercially available 3D printing with robot lamination p
  </br>
  
  <p align="center">
+ <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/WHVmj0ZvAGI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ </p>
+
+ 
+ <p align="center">
  <iframe width="672" height="378" src="https://www.youtube-nocookie.com/embed/hA4khyXnjLY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     
  </p>
