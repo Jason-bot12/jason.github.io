@@ -11,7 +11,7 @@ This project combines commercially available 3D printing with robot lamination p
 
 
 
-![Flexoskeleton Printing](mingsongj.github.io/assets/img/rs_fig211.png)
+![Flexoskeleton Printing](/assets/img/rs_fig211.png)
 
 <!-- <div class="row">
     <div class="col-sm mt-3 mt-md-0">
