@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image
-img: assets/img/3.jpg
+title: Flexoskeleton Printing
+description: Flexible robot exoskeletons for multifunctional applications
+img: assets/img/flexo_intro.png
 importance: 2
-category: work
+category: research
 ---
 
 Every project has a beautiful feature showcase page.
