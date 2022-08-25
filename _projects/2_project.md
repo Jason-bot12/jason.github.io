@@ -9,9 +9,10 @@ category: research
 
 This project combines commercially available 3D printing with robot lamination process to create biomimetic robot features with built-in compliance and deformability. A [GitHub website](https://github.com/gravish-lab/Flexoskeleton-printing) features the whole fabrication process with some demos in it. 
 
+<p align="center">
 
-
-![Flexoskeleton Printing](/assets/img/rs_fig211.png)
+![Flexoskeleton Printing](/assets/img/rs_fig211.png width="60%")
+    <\p>
 
 <!-- <div class="row">
     <div class="col-sm mt-3 mt-md-0">
