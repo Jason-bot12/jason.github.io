@@ -11,7 +11,7 @@ This project combines commercially available 3D printing with robot lamination p
 
 <p align="center">
     
-<img src="/assets/img/flexo_main.png" width="72%" height="72%" />
+<img src="/assets/img/flexo_main.png" width="80%" height="80%" />
  </p>
 <p align="center">
 <em><b>Flexoskeleton printing process. </b></em>
