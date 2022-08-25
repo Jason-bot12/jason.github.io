@@ -11,13 +11,7 @@ This project combines commercially available 3D printing with robot lamination p
 
 
 
-<p align="center">
-
-
-<img src=https://github.com/mingsongj/mingsongj.github.io/blob/master/assets/img/flexo_main.png width="100%">
- <i class="fa fa-sliders" /> This figure shows the whole process of flexoskeleton printing and what it can make.</i>
-
-</p>
+![Flexoskeleton Printing](assets/img/rs_fig211.png)
 
 <!-- <div class="row">
     <div class="col-sm mt-3 mt-md-0">
