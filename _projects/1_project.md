@@ -2,7 +2,7 @@
 layout: page
 title: SCRAMs
 description: Soft Curved Reconfigurable Anisotropic Mechanisms
-img: assets/img/12.jpg
+img: assets/img/scram_intro.png
 importance: 1
 category: work
 ---
