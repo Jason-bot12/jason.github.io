@@ -12,3 +12,11 @@ This is a ground breaking research on building new soft robots and mechanisms vi
 <p align="center">
 <iframe width="672" height="378" src="https://www.youtube-nocookie.com/embed/IYGtqFJA4RM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </p>
+
+
+<br/>
+
+### Publications
+
+1. M. Jiang, Z. Zhou, and N. Gravish, “Flexoskeleton Printing Enables Versatile Fabrication of Hybrid Soft and Rigid Robots,” Soft Robot, vol. 7, no. 6, pp. 770–778, Dec. 2020. <a href="https://my.github.io/files/paper.pdf">mypdf</a>
+2. Q. Yu, M. Jiang, and N. Gravish, “Flexoskeleton Fingers: 3D Printed Reconfigurable Ridges Enabling Multi-Functional and Low-Cost Underactuated Grasping,” IEEE Robotics and Automation Letters, vol. 6, no. 2, pp. 3971–3978, Apr. 2021.
