@@ -6,3 +6,7 @@ description: These are the projects I've worked on
 nav: true
 nav_order: 3
 ---
+
+
+### Virtual joint mechanisms for truly reconfigurable functional robots 
+
