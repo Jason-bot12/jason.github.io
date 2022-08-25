@@ -8,7 +8,7 @@ profile:
   align: right
   image: myself.jpeg
   image_circular: false # crops the image to make it circular
-  address: mingsongj.github.io
+  address: <p>mingsongj.github.io</p>
 
 news: false  # includes a list of news items
 selected_papers: false  # includes a list of papers marked as "selected={true}"
