@@ -35,4 +35,5 @@ This project combines commercially available 3D printing with robot lamination p
 
 1. M. Jiang, Z. Zhou, and N. Gravish, “Flexoskeleton Printing Enables Versatile Fabrication of Hybrid Soft and Rigid Robots,” Soft Robot, vol. 7, no. 6, pp. 770–778, Dec. 2020. <a href="/assets/pdf/flexo_paper.pdf" target="_blank">[pdf]</a>
 2. Q. Yu, M. Jiang, and N. Gravish, “Flexoskeleton Fingers: 3D Printed Reconfigurable Ridges Enabling Multi-Functional and Low-Cost Underactuated Grasping,” IEEE Robotics and Automation Letters, vol. 6, no. 2, pp. 3971–3978, Apr. 2021. <a href="/assets/pdf/flexo_fingers.pdf" target="_blank">[pdf]</a>
+3. M. Jiang, R. Song, and N. Gravish, “Knuckles that buckle: compliant underactuated limbs with joint hysteresis enable minimalist terrestrial robots,” in 2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Oct. 2020, pp. 3732–3738. <a href="/assets/pdf/knuckle.pdf" target="_blank">[pdf]</a>
 
