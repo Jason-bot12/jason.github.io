@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Flexoskeleton Printing
-description: Flexible robot exoskeletons for multifunctional applications
+description: Bio-inspired robot exoskeletons for multifunctional applications
 img: assets/img/flexo_intro.png
 importance: 2
 category: research
