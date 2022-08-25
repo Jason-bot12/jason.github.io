@@ -11,7 +11,7 @@ This project combines commercially available 3D printing with robot lamination p
 
 <p align="center">
     
-<img src="https://github.com/mingsongj/mingsongj.github.io/assets/img/flexo_main.png">
+<img src="https://github.com/mingsongj/mingsongj.github.io/blob/master/assets/img/flexo_main.png">
     
  </p>
 
