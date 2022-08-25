@@ -24,7 +24,7 @@ I believe robot equal intelligence in both physical and artifical domains. As a 
 
 <br/>
 
-### Experiences
+### Education
 
 Ph.D. in Mechanical Engineering at UC San Diego (2018-2021)
 - Thesis: Towards Reconfigurable and Adaptive Soft Robots via Hybrid Materials, Designs and Mechanisms
