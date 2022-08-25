@@ -8,7 +8,7 @@ importance: 3
 category: research
 ---
 
-This project is an innovation of tradtional lamination process for making low-profile foldable robtos with tunable properties. 
+This project is an innovation of tradtional lamination process for making low-profile foldable robots with tunable material or mechanical properties. 
 
 <p align="center">
 <iframe width="672" height="378" src="https://www.youtube-nocookie.com/embed/H0JdyBRR5TY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
