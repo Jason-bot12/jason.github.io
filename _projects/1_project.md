@@ -25,7 +25,7 @@ This is a ground breaking research on building new soft robots and mechanisms vi
     </p>
     
 <p align="center">
-<em><b> A video of a reconfigurable revolute joint concept based on pure "soft" mechanisms (hybrid robot mechanism in preparation). </b></em>
+<em><b> A reconfigurable revolute joint concept based on "soft" tubing and "rigid" constraints (another hybrid robot mechanism in preparation). </b></em>
  </p>
 
 
