@@ -22,6 +22,7 @@ This is a ground breaking research on building new soft robots and mechanisms vi
 
 <p align="center">
 <iframe width="672" height="378" src="https://www.youtube-nocookie.com/embed/IYGtqFJA4RM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <em><b> A video of a reconfigurable revolute joint concept based on pure "soft" mechanisms (hybrid robot mechanism in preparation). </b></em>
     </p>
 
 
