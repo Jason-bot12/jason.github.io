@@ -7,7 +7,7 @@ importance: 1
 category: research
 ---
 
-This is a ground breaking research on building new soft robots and mechanisms via the incorporation of curves, buckling and instability into continuum soft materials and structures to enable virtual joint formation with embedded sensing, actuation and control. 
+This is a groundbreaking research on building new soft robots and mechanisms via the incorporation of curves, buckling and instability into continuum soft materials and structures to enable virtual joint formation with embedded sensing, actuation and control. 
 
 
 <p align="center">
