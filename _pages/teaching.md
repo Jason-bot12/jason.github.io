@@ -14,6 +14,15 @@ Graduate level course (ME, EE, BioE)
 - Involving robot manufacturing (e.g., 3D printing, and laser cutting), motor control, inverse kinematics and dyanmics.
 
 
+<p align="center">
+<iframe width="672" height="378" src="https://www.youtube-nocookie.com/embed/xXe71Z6f-cs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </p>
+    
+<p align="center">
+<em><b> A reconfigurable revolute joint concept based on "soft" tubing and "rigid" constraints (another hybrid robot mechanism in preparation). </b></em>
+ </p>
+
+
 ### MAE 156A, [Fundamental Principles of Mechanical Designs](https://mae156a.eng.ucsd.edu/)
 Undergraduate level course (ME, EE, BioE)
 - Fundamentals of mechanical engineering design principles
