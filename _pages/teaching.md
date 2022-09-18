@@ -19,7 +19,7 @@ Graduate level course (ME, EE, BioE)
     </p>
     
 <p align="center">
-<em><b> A reconfigurable revolute joint concept based on "soft" tubing and "rigid" constraints (another hybrid robot mechanism in preparation). </b></em>
+<em><b> A video clip of MAE 207, Bioinspired Mobile Robotics (final demo day). </b></em>
  </p>
 
 
