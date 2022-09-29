@@ -23,7 +23,7 @@ Graduate level course (ME, EE, BioE)
  </p>
 
 
-### MAE 156A, [Fundamental Principles of Mechanical Designs](https://mae156a.eng.ucsd.edu/)
+### MAE 156A, [Fundamental Principles of Mechanical Design I](https://mae156a.eng.ucsd.edu/)
 Undergraduate level course (ME, EE, BioE)
 - Fundamentals of mechanical engineering design principles
 - Application of engineering science to the design and analysis of mechanical components.
