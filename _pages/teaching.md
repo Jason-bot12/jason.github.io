@@ -31,7 +31,7 @@ Undergraduate level course (ME, EE, BioE)
 
 
 ### UCSD COSMOS, Cluster 10, [Robot Inventors](https://jacobsschool.ucsd.edu/sites/default/files/groups/cosmos/docs/2019/2019_Cluster_10_Newsletter.pdf)
-High school students' summer school training on STEM education.
+High school students' summer school training on higher level STEM education.
 - Introductory course on conceptualizing, designing and building customized robots.
 - Fundamenatal knowledge on mechanical designs (CAD), prototyping tools (laser cutting, 3D printing), sensing (image sensors), and programming (Python).
 - Lectures from faculties and guest speakers, hands-on projects, and a series of student competitions.
