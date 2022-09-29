@@ -15,7 +15,7 @@ This project is an innovation of tradtional lamination process for making low-pr
 <img src="/assets/img/reconfigurable_lam.png" width="80%" height="80%" />
  </p>
 <p align="center">
-<em><b> Conceptual design of reconfigurable laminates using simple rigid and soft materials (and adhesives). (a) A layered channel is made with seperable top and bottom layers. (b) Variable laminate stiffness based on layer alignment states. (c) A joint actuator based on tendon layer (like muscles). (d) A bistable lock can be fabricated based on the buckling and snap through of the soft layer parts. </b></em>
+<em><b> Conceptual design of reconfigurable laminates using simple rigid and soft materials (and adhesives). (a) A layered channel is made with seperable top and bottom layers. (b) Variable laminate stiffness based on changeable layer alignment states. (c) A joint actuator based via a tendon layer (like muscles). (d) A bistable joint lock can be fabricated using buckling and snap through of the soft layer parts. All elements are to contribute low-profile and reconfigurable robotic building blocks for multifunctional usages.  </b></em>
  </p>
 
 
