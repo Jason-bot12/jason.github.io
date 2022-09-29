@@ -35,3 +35,12 @@ High school students' summer school training on STEM education.
 - Introduction courses on conceptualizing, designing and building customized robots.
 - Fundamenatal knowledge on mechanical designs (CAD), prototyping tools (laser cutting, 3D printing), sensing (image sensors), and programming (Python).
 - Lectures from faculties and guest speakers, hands-on projects, and a series of student competitions.
+
+<p align="center">
+    
+<img src="/assets/img/cluster10.png" width="80%" height="80%" />
+ </p>
+<p align="center">
+<em><b> UCSD COSMOS, Cluster 10, Robot Inventors, summer 2019. </b></em>
+ </p>
+
