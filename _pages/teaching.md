@@ -28,3 +28,10 @@ Undergraduate level course (ME, EE, BioE)
 - Fundamentals of mechanical engineering design principles
 - Application of engineering science to the design and analysis of mechanical components.
 - Initiation of team design projects that culminate in MAE 156B for with functional prototypes for real engineering [applications](https://mae156b.eng.ucsd.edu/projects/projects-winter-2022). 
+
+
+### UCSD COSMOS, Cluster 10, [Robot Inventors](https://jacobsschool.ucsd.edu/sites/default/files/groups/cosmos/docs/2019/2019_Cluster_10_Newsletter.pdf)
+High school students' summer school training on STEM education.
+- Introduction courses on conceptualizing, designing and building customized robots.
+- Fundamenatal knowledge on mechanical designs (CAD), prototyping tools (laser cutting, 3D printing), sensing (image sensors), and programming (Python).
+- Lectures from faculties and guest speakers, hands-on projects, and a series of student competitions.
