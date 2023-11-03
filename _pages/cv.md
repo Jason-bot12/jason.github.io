@@ -4,7 +4,7 @@ permalink: /cv/
 title: CV
 nav: true
 nav_order: 2
-cv_pdf: CV_yale.pdf
+cv_pdf: CV_yale_2023.pdf
 ---
 
 
