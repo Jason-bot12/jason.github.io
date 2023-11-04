@@ -26,7 +26,9 @@ layout: default
               {% include figure.html 
               path=profile_image_path 
               class=profile_image_class
-              alt=page.profile.image -%}
+              alt=page.profile.image 
+              style="width: 110%; height: auto;"  <!-- You can change the width percentage as needed -->
+              cache_bust=true -%} 
             {% endif -%}
             {%- if page.profile.address %}
             <div class="address">
