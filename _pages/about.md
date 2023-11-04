@@ -6,7 +6,7 @@ subtitle: jason123jms@gmail.com
 
 profile:
   align: right
-  image: myself.jpeg
+  image: myself_2.jpg
   image_circular: false # crops the image to make it circular
   address: >
            <p align="center">
