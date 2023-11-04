@@ -28,6 +28,13 @@ I believe robot equal intelligence in both physical and algorithmic domains. As 
 
 <br/>
 
+### Current Position
+
+Postdoctoral Associate at Yale University
+- Yale School of Engineering and Applied Science
+- Advisor: [Rebecca Kramer-Bottiglio](https://seas.yale.edu/faculty-research/faculty-directory/rebecca-kramer-bottiglio)
+- Group: [Yale Faboratory](https://www.eng.yale.edu/faboratory/)
+
 ### Education
 
 Ph.D. in Mechanical Engineering at UC San Diego (2018-2021)
