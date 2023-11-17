@@ -20,7 +20,7 @@ social: false  # includes social icons at the bottom of the page
 ---
 
 
-[google scholar](https://scholar.google.com/citations?user=HN7FTlYAAAAJ&hl=en)
+[google scholar](https://scholar.google.com/citations?user=1u-F3DUAAAAJ&hl=en)
 
 I am an enthusisatic robotics researcher focusing on the development of future reconfigurable and multi-functional robots via smart materials, robot compositions and manufacturing. For future robots to replace human labors in **_boring_**, **_repetitive_** and **_dangerous_** jobs, they are also required to yield **safe**, **collaborative** and **adaptive** behaviors in all human involved circumstances. 
 
