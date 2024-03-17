@@ -22,25 +22,20 @@ This is a groundbreaking research on building new soft robots and mechanisms via
 
 <p align="center">
 <iframe width="672" height="378" src="https://www.youtube-nocookie.com/embed/IYGtqFJA4RM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-    </p>
-    
+</p>
 <p align="center">
 <em><b> A reconfigurable revolute joint concept based on "soft" tubing and "rigid" constraints </b></em>
  </p>
 
 <p align="center">
-
 <iframe width="672" height="378" src="https://www.youtube.com/embed/UNheqngziSI?si=5KTLTwKmG5e1CbzH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 <p align="center">
 <em><b> Internal joint modules for the reconfigurable soft linkage robot </b></em>
  </p>
 
 
 <p align="center">
-
 <iframe width="672" height="378" src="https://www.youtube.com/embed/PON_aUeAitg?si=NUa93SLNljNCgJ3C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 <p align="center">
 <em><b> Reconfigurable soft linkage robot in deployment </b></em>
  </p>
@@ -53,22 +48,13 @@ This is a groundbreaking research on building new soft robots and mechanisms via
 
 <p align="center">
 <iframe width="672" height="378" src="https://www.youtube.com/embed/x_lKDwjwFwY?si=enf9HtntNYGX_y5G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 <p align="center">
 <em><b> Robot turning </b></em>
  </p>
-
 
 <br/>
 
 ### Publications
 
-M. Jiang, Q. Yu, and N. Gravish, “Vacuum induced tube pinching enables reconfigurable flexure joints with controllable bend axis and stiffness,” in 2021 IEEE 4th International Conference on Soft Robotics (RoboSoft), Apr. 2021, pp. 315–320. <a href="/assets/pdf/vacuum_pinch.pdf" target="_blank">[pdf]</a>
-
-M. Jiang, J. Wang, and N. Gravish, Internal actuation of inflatable beams to achieve “soft” linkage robots with reconfigurable “rigid” kinematics. 2024 (under review) 
-
-
-
-
-
-
+1. M. Jiang, Q. Yu, and N. Gravish, “Vacuum induced tube pinching enables reconfigurable flexure joints with controllable bend axis and stiffness,” in 2021 IEEE 4th International Conference on Soft Robotics (RoboSoft), Apr. 2021, pp. 315–320. <a href="/assets/pdf/vacuum_pinch.pdf" target="_blank">[pdf]</a>
+2. M. Jiang, J. Wang, and N. Gravish, Internal actuation of inflatable beams to achieve “soft” linkage robots with reconfigurable “rigid” kinematics. 2024 (under review) 
