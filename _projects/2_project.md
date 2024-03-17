@@ -31,7 +31,9 @@ This project combines commercially available 3D printing with robot lamination p
 
 <br/>
 
-### Publications
+<!-- Markdown Starts Below -->
+
+<p style="font-size: 1.17em; font-weight: bold; margin-top: 20px; margin-bottom: 10px;">Publications</p>
 
 1. M. Jiang, Z. Zhou, and N. Gravish, “Flexoskeleton Printing Enables Versatile Fabrication of Hybrid Soft and Rigid Robots,” Soft Robot, vol. 7, no. 6, pp. 770–778, Dec. 2020. <a href="/assets/pdf/flexo_paper.pdf" target="_blank">[pdf]</a>
 2. Q. Yu, M. Jiang, and N. Gravish, “Flexoskeleton Fingers: 3D Printed Reconfigurable Ridges Enabling Multi-Functional and Low-Cost Underactuated Grasping,” IEEE Robotics and Automation Letters, vol. 6, no. 2, pp. 3971–3978, Apr. 2021. <a href="/assets/pdf/flexo_fingers.pdf" target="_blank">[pdf]</a>
