@@ -6,7 +6,7 @@ img: assets/img/scram_p1.png
 importance: 1
 category: research
 ---
-
+### Content
 This is a groundbreaking research on building new soft robots and mechanisms via the incorporation of curves, buckling and instability into continuum soft materials and structures to enable virtual joint formation with embedded sensing, actuation and control. 
 
 
@@ -54,4 +54,4 @@ This is a groundbreaking research on building new soft robots and mechanisms via
 ### Publications
 
 1. M. Jiang, Q. Yu, and N. Gravish, “Vacuum induced tube pinching enables reconfigurable flexure joints with controllable bend axis and stiffness,” in 2021 IEEE 4th International Conference on Soft Robotics (RoboSoft), Apr. 2021, pp. 315–320. <a href="/assets/pdf/vacuum_pinch.pdf" target="_blank">[pdf]</a>
-2. M. Jiang, J. Wang, and N. Gravish, Internal actuation of inflatable beams to achieve “soft” linkage robots with reconfigurable “rigid” kinematics. 2024 (under review) 
+2. M. Jiang, J. Wang, and N. Gravish, A reconfigurable soft linkage robot via internal “virtual” joints. 2024 (Under review) 
