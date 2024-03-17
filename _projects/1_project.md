@@ -42,7 +42,7 @@ This is a groundbreaking research on building new soft robots and mechanisms via
 <iframe width="672" height="378" src="https://www.youtube.com/embed/PON_aUeAitg?si=NUa93SLNljNCgJ3C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <p align="center">
-<em><b> A Reconfigurable soft linkage robot in deployment </b></em>
+<em><b> Reconfigurable soft linkage robot in deployment </b></em>
  </p>
 
 <p align="center">
