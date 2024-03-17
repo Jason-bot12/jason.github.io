@@ -51,10 +51,7 @@ This is a groundbreaking research on building new soft robots and mechanisms via
  </p>
 
 
-
-<br/>
-
-## Publications
+### Publications
 
 1. M. Jiang, Q. Yu, and N. Gravish, “Vacuum induced tube pinching enables reconfigurable flexure joints with controllable bend axis and stiffness,” in 2021 IEEE 4th International Conference on Soft Robotics (RoboSoft), Apr. 2021, pp. 315–320. <a href="/assets/pdf/vacuum_pinch.pdf" target="_blank">[pdf]</a>
 2. M. Jiang, J. Wang, and N. Gravish, Internal actuation of inflatable beams to achieve “soft” linkage robots with reconfigurable “rigid” kinematics. 2024 (under review) 
