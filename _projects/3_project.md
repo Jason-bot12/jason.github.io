@@ -35,9 +35,9 @@ This project is an innovation of tradtional lamination process for making low-pr
 
 </p>
 
+<!-- Markdown Starts Below -->
 
-### Publications
-
+<p style="font-size: 1.17em; font-weight: bold; margin-top: 20px; margin-bottom: 10px;">Publications</p>
 1. M. Jiang and N. Gravish, “Reconfigurable laminates enable multifunctional robotic building blocks,” Smart Mater. Struct., vol. 30, no. 3, p. 035005, Feb. 2021. <a href="/assets/pdf/SMS_r.pdf" target="_blank">[pdf]</a>
 2. M. Jiang and N. Gravish, “Sliding-Layer Laminates: A Robotic Material Enabling Robust and Adaptable Undulatory Locomotion,” in 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Oct. 2018, pp. 5944–5951. <a href="/assets/pdf/slls.pdf" target="_blank">[pdf]</a>
 
