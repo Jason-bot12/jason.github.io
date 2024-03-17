@@ -21,7 +21,7 @@ This is a groundbreaking research on building new soft robots and mechanisms via
 
 
 <p align="center">
-<iframe width="672" height="378" src="https://www.youtube-nocookie.com/embed/IYGtqFJA4RM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="672" height="378" src="https://www.youtube-nocookie.com/embed/IYGtqFJA4RM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
     </p>
     
 <p align="center">
@@ -33,8 +33,22 @@ This is a groundbreaking research on building new soft robots and mechanisms via
 <iframe width="672" height="378" src="https://www.youtube.com/embed/UNheqngziSI?si=5KTLTwKmG5e1CbzH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <p align="center">
-<em><b> Design of the internal joint modules for the reconfigurable soft linkage robot. </b></em>
+<em><b> Internal joint modules for the reconfigurable soft linkage robot. </b></em>
  </p>
+
+
+<p align="center">
+
+<iframe width="672" height="378" src="https://www.youtube.com/embed/PON_aUeAitg?si=NUa93SLNljNCgJ3C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<p align="center">
+<em><b> Reconfigurable Soft Linkage robot in deployment. </b></em>
+ </p>
+
+
+
+
+
     
 ### Publications
 
