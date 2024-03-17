@@ -11,12 +11,15 @@ This is a groundbreaking research on building new soft robots and mechanisms via
 
 
 <p align="center">
-    
-<img src="/assets/img/new_robotics.png" width="80%" height="80%" />
- </p>
+<img src="{{ '/assets/img/new_robotics.png' | prepend: site.baseurl }}" width="80%" height="80%" />
+</p>
 <p align="center">
 <em><b> Concept of future reconfigurable robots with flexible joint-linkage configurations based on hybrid robot paradigms (rigid and soft) </b></em>
- </p>
+</p>
+
+
+
+
 
 
 
