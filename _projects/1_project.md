@@ -32,6 +32,24 @@ This is a groundbreaking research on building new soft robots and mechanisms via
  </p>
 
 
+<p align="center">
+<iframe width="672" height="378" src="https://www.youtube.com/embed/PON_aUeAitg?si=NUa93SLNljNCgJ3C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<p align="center">
+<em><b> Reconfigurable soft linkage robot in deployment </b></em>
+ </p>
+
+<p align="center">
+<iframe width="672" height="378" src="https://www.youtube.com/embed/y6iCVS4lkno?si=8sCs5JKYVA-of3G0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<p align="center">
+<em><b> Reconfigurable robot locomotion (gaits) </b></em>
+ </p>
+
+<p align="center">
+<iframe width="672" height="378" src="https://www.youtube.com/embed/x_lKDwjwFwY?si=enf9HtntNYGX_y5G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<p align="center">
+<em><b> Robot turning </b></em>
+ </p>
+
 
 
 <br/>
