@@ -58,7 +58,9 @@ This is a groundbreaking research on building new soft robots and mechanisms via
 <em><b> Robot turning </b></em>
  </p>
 
-    
+
+
+
 ### Publications
 
 M. Jiang, Q. Yu, and N. Gravish, “Vacuum induced tube pinching enables reconfigurable flexure joints with controllable bend axis and stiffness,” in 2021 IEEE 4th International Conference on Soft Robotics (RoboSoft), Apr. 2021, pp. 315–320. <a href="/assets/pdf/vacuum_pinch.pdf" target="_blank">[pdf]</a>
