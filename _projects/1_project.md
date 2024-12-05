@@ -17,14 +17,6 @@ This is a groundbreaking research on building new soft robots and mechanisms via
 <em><b> Concept of future reconfigurable robots with flexible joint-linkage configurations based on hybrid robot paradigms (rigid and soft) </b></em>
 </p>
 
-
-<p align="center">
-<iframe width="672" height="378" src="https://www.youtube-nocookie.com/embed/IYGtqFJA4RM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</p>
-<p align="center">
-<em><b> A reconfigurable revolute joint concept based on "soft" tubing and "rigid" constraints </b></em>
- </p>
-
 <p align="center">
 <iframe width="672" height="378" src="https://www.youtube.com/embed/UNheqngziSI?si=5KTLTwKmG5e1CbzH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <p align="center">
